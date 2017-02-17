@@ -1,0 +1,4 @@
+name: ResourcePackApi
+main: org.inventivetalent.rpapi.RPApiPlugin
+version: ${project.version}
+author: inventivetalent

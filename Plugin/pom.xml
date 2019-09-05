@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.inventivetalent.resourcepackapi</groupId>
         <artifactId>parent</artifactId>
-        <version>parent</version>
+        <version>1.4.2</version>
     </parent>
     <artifactId>plugin</artifactId>
     <version>${rp.version}</version>
